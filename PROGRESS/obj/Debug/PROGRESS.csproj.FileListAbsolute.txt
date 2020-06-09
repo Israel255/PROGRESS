@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\bin\Debug\PROGRESS.exe.config
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\bin\Debug\PROGRESS.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\bin\Debug\PROGRESS.pdb
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\obj\Debug\PROGRESS.MainForm.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\obj\Debug\PROGRESS.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\obj\Debug\PROGRESS.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\obj\Debug\PROGRESS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\obj\Debug\PROGRESS.exe
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\obj\Debug\PROGRESS.pdb
+C:\Users\USER\Desktop\עבודות\winforms test\EXAM\PROGRESS\obj\Debug\PROGRESS.csprojAssemblyReference.cache
